@@ -1,0 +1,170 @@
+{
+  "Google": {
+    "indeed": {
+      "company_name": null,
+      "founded": null,
+      "industry": null,
+      "website": null,
+      "overall_rating_worldwide": null,
+      "overall_rating_by_countries": [
+        {
+          "country": "USA",
+          "rating": null
+        },
+        {
+          "country": "Germany",
+          "rating": null
+        }
+      ],
+      "rating_by_category_worldwide": {
+        "work_life_balance": null,
+        "pay_and_benefits": null,
+        "job_securtiy_and_advancement": null,
+        "management": null,
+        "culture": null
+      },
+      "rating_by_category_by_countries": [
+        {
+          "country": "USA",
+          "work_life_balance": null,
+          "pay_and_benefits": null,
+          "job_securtiy_and_advancement": null,
+          "management": null,
+          "culture": null
+        },
+        {
+          "country": "Netherlands",
+          "work_life_balance": null,
+          "pay_and_benefits": null,
+          "job_securtiy_and_advancement": null,
+          "management": null,
+          "culture": null
+        }
+      ],
+      "salary_overall_worldwide": [
+        {
+          "job": "Product Manager",
+          "salary": null
+        },
+        {
+          "job": "Software Engineer",
+          "salary": null
+        }
+      ],
+      "salary_by_countries": [
+        {
+          "country": "Turkey",
+          "jobs": [
+            {
+              "title": "Product Manager",
+              "salary": null
+            },
+            {
+              "title": "Software Engineer",
+              "salary": null
+            }
+          ]
+        },
+        {
+          "country": "Japan",
+          "jobs": [
+            {
+              "title": "Product Manager",
+              "salary": null
+            },
+            {
+              "title": "Software Engineer",
+              "salary": null
+            }
+          ]
+        }
+      ]
+    },
+    "glassdoor": {
+      "company_name": null,
+      "founded": null,
+      "industry": null,
+      "website": null,
+      "overall_rating_worldwide": null,
+      "overall_rating_by_countries": [
+        {
+          "country": "USA",
+          "rating": null
+        },
+        {
+          "country": "Germany",
+          "rating": null
+        }
+      ],
+      "rating_by_category_worldwide": {
+        "work_life_balance": null,
+        "compensation_and_benefits": null,
+        "career_opportunites": null,
+        "senior_management": null,
+        "culture_and_values": null,
+        "diversity_and_inclusion": null
+      },
+      "rating_by_category_by_countries": [
+        {
+          "country": "USA",
+          "work_life_balance": null,
+          "compensation_and_benefits": null,
+          "career_opportunites": null,
+          "senior_management": null,
+          "culture_and_values": null,
+          "diversity_and_inclusion": null
+        },
+        {
+          "country": "Netherlands",
+          "work_life_balance": null,
+          "compensation_and_benefits": null,
+          "career_opportunites": null,
+          "senior_management": null,
+          "culture_and_values": null,
+          "diversity_and_inclusion": null
+        }
+      ],
+      "salary_overall_worldwide": [
+        {
+          "job": "Product Manager",
+          "salary": null
+        },
+        {
+          "job": "Software Engineer",
+          "salary": null
+        }
+      ],
+      "salary_by_countries": [
+        {
+          "country": "Turkey",
+          "jobs": [
+            {
+              "title": "Product Manager",
+              "salary": null
+            },
+            {
+              "title": "Software Engineer",
+              "salary": null
+            }
+          ]
+        },
+        {
+          "country": "Japan",
+          "jobs": [
+            {
+              "title": "Product Manager",
+              "salary": null
+            },
+            {
+              "title": "Software Engineer",
+              "salary": null
+            }
+          ]
+        }
+      ]
+    },
+    "wikipedia": {
+      "about": null
+    }
+  }
+}
